@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/asticode/go-astitools/byte"
-	"github.com/asticode/go-astitools/map"
-	"github.com/asticode/go-astitools/ptr"
+	"github.com/tm4s/go-astitools/byte"
+	"github.com/tm4s/go-astitools/map"
+	"github.com/tm4s/go-astitools/ptr"
 	"github.com/pkg/errors"
 	"golang.org/x/text/unicode/norm"
 )
